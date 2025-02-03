@@ -1,4 +1,4 @@
-# candidature_aeroworld
+# Candidature au poste de Chef de projet Data chez Aéroworld
 Simulation de candidature à un poste de Data Analyst pour une entreprise du secteur de l'aéronautique
 
 ### 🛫 Portfolio de candidature Aéroworld :
