@@ -9,7 +9,7 @@ TABLEAU DE BORD VEILLE MÉTIER
 🎥 [Voir la démonstration en vidéo](https://urlr.me/DKQwu3)
 
 RAPPORT D'ANALYSE DES BESOINS MÉTIERS D'AÉROWORLD
-- [📘 Rapport d'analyse en PDF des besoins métiers du client](https://urls.fr/FpOlWl)
+- [📘 Rapport d'analyse en PDF des besoins métiers du client](https://1drv.ms/b/c/8bed31e70b5aef02/EcblovswXIxPgdriVgrtk0QBhU1RdexgGADzg9OxO2ANgQ))
 
 
 ### GESTION DE PROJET
