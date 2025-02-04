@@ -9,12 +9,12 @@ TABLEAU DE BORD VEILLE MÉTIER
 🎥 [Voir la démonstration en vidéo](https://urlr.me/DKQwu3)
 
 RAPPORT D'ANALYSE DES BESOINS MÉTIERS D'AÉROWORLD
-- [📘 Rapport d'analyse en PDF des besoins métiers du client](https://1drv.ms/b/c/8bed31e70b5aef02/EcblovswXIxPgdriVgrtk0QBhU1RdexgGADzg9OxO2ANgQ))
+- [📘 Rapport d'analyse en PDF des besoins métiers du client](https://1drv.ms/b/c/8bed31e70b5aef02/EcblovswXIxPgdriVgrtk0QBhU1RdexgGADzg9OxO2ANgQ)
 
 
 ### GESTION DE PROJET
 CAHIER DES CHARGES FONCTIONNEL DU PROJET PORTFOLIO
-- [📗 Cahier des charges fonctionnel en PDF du projet Portfolio](https://urls.fr/psts7P)
+- [📗 Cahier des charges fonctionnel en PDF du projet Portfolio](https://1drv.ms/b/c/8bed31e70b5aef02/EbWjat_7rPNOnUcTDgppI1EBL7ULkgmWL_2GM3EJQK6XLA)
 
 TABLEAU DE BORD DE GESTION DU PROJET PORTFOLIO | DIAGRAMME DE GANTT
 ![Tableau de bord Power BI](https://raw.githubusercontent.com/Walid-DABI/Walid-DABI/main/assets/miniature_dashboard_gantt.png)
