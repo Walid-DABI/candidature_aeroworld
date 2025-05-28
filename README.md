@@ -23,7 +23,7 @@ TABLEAU DE BORD DE GESTION DU PROJET PORTFOLIO | DIAGRAMME DE GANTT
 
 ### PARTAGE DE CONNAISSANCES
 CRÉATION D'UN MAGNIFIQUE GRAPHIQUE GRÂCE À POWER BI
-- [🎥 Session de formation/tuto outil Power BI](https://youtu.be/sczVC0e1bmA)
+- [🎥 Session de formation/tuto outil Power BI](https://youtu.be/N_q69ONn7Ns)
 
 SUPPORT ÉCRIT DU TUTORIEL VIDÉO POWER BI
 - [📕 Procédure de documentation en PDF 'Création d'un graphique d'analyse data'](https://drive.google.com/file/d/1or1ATOPZ0z5nMdezDAeI3igPeY2ec-fa/view?usp=sharing)
